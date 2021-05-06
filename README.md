@@ -16,7 +16,7 @@
 
 ## You can find me in
 
-  [![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/MerlynJoCol)
+  ![Twitter URL](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/MerlynJoCol)
   ![](https://img.shields.io/badge/Linkedin-0A66C2?logo=linkedin&logoColor=white&style=flat)
   ![](https://img.shields.io/badge/Github-181717?logo=github&logoColor=white&style=flat)
 
