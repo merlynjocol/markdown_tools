@@ -2,7 +2,7 @@
 ### I am Agriculture Engineer, M.S in Technologies and Strategies for Development
 
 
-  - ####  :computer: I am researching how data-driven innovations are transforming the food systems in the Digital Science AIRE Master at [CRI](https://www.cri-paris.org/en) 
+  - :computer: I am researching how data-driven innovations are transforming the food systems in the Digital Science AIRE Master at [CRI](https://www.cri-paris.org/en) 
   - ####  :rocket: I am part of the [Challenge Hub](https://master.cri-paris.org/en/challenge-hub) and [EllesTech](https://twitter.com/elles_tech) at [CRI](https://www.cri-paris.org/en)
   - #### :speech_balloon:  Ask me about Technology4Development, co-creation, Social innovations, gender mainstreaming, citizen science and sustainable development
   - #### :heart: I love to work in collaborative projects that empower users
