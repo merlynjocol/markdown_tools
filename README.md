@@ -36,6 +36,7 @@
 :heavy_check_mark:
 :green_heart:
   
+  Galery of Emogis  https://emojiterra.com/1st-place-medal/
   
 ### Resources: 
   https://github.com/carlsednaoui/gitsocial
@@ -73,5 +74,14 @@
   https://github.com/alexandresanlim/Badges4-README.md-Profile
   https://github.com/Ileriayo/markdown-badges
 
+  
+  
+  ## Resources
+  
+  INtro en movimiento https://readme-typing-svg.herokuapp.com/demo/
+  Selec Colors https://imagecolorpicker.com/
+  
+  Some ideas https://khaleelgibran.com/
+  https://raymond.li/resume.pdf
   
  
