@@ -74,7 +74,9 @@
   https://github.com/alexandresanlim/Badges4-README.md-Profile
   https://github.com/Ileriayo/markdown-badges
 
-  
+  ## Github intros
+  https://github.com/merlynjocol/thmsgbrt
+  https://github.com/merlynjocol/DenverCoder1
   
   ## Resources
   
